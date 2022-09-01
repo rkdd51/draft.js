@@ -4,6 +4,7 @@ export default function App() {
     <div className="App">
       <h1>Draft.js</h1>
       <DraftComponent />
+      this is my name Ankit
     </div>
   );
 }
